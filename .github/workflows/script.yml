@@ -24,4 +24,4 @@ jobs:
       - name: Run a Python script
         env:
           AZURE_SECRET_TOKEN: ${{ secrets.AZURE_SECRET_TOKEN }}
-        run: python SocialAPI/.github/workflows/test_app.py
+        run: python SocialAPI/test_app.py

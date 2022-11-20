@@ -2,3 +2,4 @@ Flask==2.2.2
 Flask-RESTful==0.3.8
 PyJWT==1.7.1
 flask_sqlalchemy==2.5.1
+gunicorn==20.1.0
